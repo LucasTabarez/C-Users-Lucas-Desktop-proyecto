@@ -1,0 +1,52 @@
+body{
+    text-align: center;
+    background-image:url(./imagenes/portada\ 2.jpg);
+    background-repeat:  no-repeat;
+    background-position: center;
+    background-size:cover ;
+    
+    
+
+}
+.Audio{
+    color: rgb(251, 249, 249);
+    
+}
+
+.btn{
+   
+    padding: 10px 40px;
+    color: aliceblue;
+    
+
+}
+
+    
+
+.texto{
+    color: aliceblue;
+}
+.content{
+    color: aliceblue;
+}
+.inicio{
+    color: rgb(255, 255, 255);
+}
+
+.cont{
+    color: aliceblue;
+}
+.Inicio{
+    color: aliceblue;
+}
+
+
+
+
+
+
+
+
+    
+
+

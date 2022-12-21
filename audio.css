@@ -1,0 +1,28 @@
+
+body{
+    text-align: center;
+    background-image:url(./imagenes/portada33.jpg);
+    background-position:center;
+    background-repeat:  no-repeat;
+}
+.Titulo{
+    color: #faebd7;
+
+
+} 
+.pp{
+color: aqua;}
+
+.jblf{
+  width: 250px;
+  height: 150px;
+    
+    
+}
+.titulo{
+   
+   color: #faebd7;
+}
+.btn{
+    color: chartreuse;
+}

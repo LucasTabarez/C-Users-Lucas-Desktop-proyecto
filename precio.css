@@ -1,0 +1,25 @@
+body{
+   background-color: rgb(107, 7, 7);
+   text-align: center;
+
+   
+   
+
+}
+
+.pp{
+    color: aqua;
+}
+.TITULO{
+    color: #fefdfd;
+  
+}
+.imagen1{width: 200px;
+height: 250px;
+border: 1px solid #171717;
+
+}
+.prc{
+    color: white;
+}
+
